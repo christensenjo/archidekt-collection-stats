@@ -383,7 +383,7 @@ function App() {
               className="w-full rounded-lg border border-slate-950/10 px-3 py-2 text-sm/6 text-slate-700 file:mr-3 file:rounded-md file:border-0 file:bg-teal-700 file:px-3 file:py-1.5 file:text-sm/6 file:font-medium file:text-white focus-visible:outline-2 focus-visible:-outline-offset-1 focus-visible:outline-teal-700 max-sm:text-base/6"
             />
             <p className="text-pretty text-sm/6 text-slate-500">
-              Your collection stays in this browser session. No default CSV is bundled with the app.
+              Your collection stays in this browser session. No data is sent anywhere.
             </p>
           </div>
         </header>
